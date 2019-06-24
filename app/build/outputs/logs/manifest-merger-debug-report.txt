@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/06d4f93665a67416e6354f7181dc1eac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/19c54783f664e6565036826ea30541b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbe32ecb90f90cd06867c20e4a5d2e2a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c7bf782ea7cc79e74467772454b7987f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/17e84cce8abe66434577f3e01545336a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a3971c0abc93e42233e674eecbf768dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4c57c7ec2df7672cd0b27cdf94293b90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1dbdf0bf21bd253a2f8718d35d36aba6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b6d2ccafcba426704e09ed950270f297/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71113f499e8a670d54ee78a2382cfc5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/abb69ded00dbf48add3836661bf909c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7ae8698eb3008b58d04180e7ca621ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/088df3c1767a6a43f6a8cf6c9b9355e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7bed67a5472ce7a2543248ad55838316/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7e09fce5efe0d7610c3c65681a0deb0e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/88fd9051b0ade065656bd890e89fb25a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0b287f8ab7b27b14a5f74f35633df9f0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:7:22-67
+application
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbe32ecb90f90cd06867c20e4a5d2e2a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbe32ecb90f90cd06867c20e4a5d2e2a/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.expensetracker.CreditActivity
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:16:19-49
+activity#com.example.expensetracker.ExpenseActivity
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:17:9-53
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:17:19-50
+activity#com.example.expensetracker.registration
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:18:19-47
+activity#com.example.expensetracker.activity_screen2
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:19:19-51
+activity#com.example.expensetracker.MainActivity
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:24:27-74
+receiver#com.example.expensetracker.SMSReceiver
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:28:19-46
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:29:13-31:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml:30:25-79
+uses-sdk
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/06d4f93665a67416e6354f7181dc1eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/06d4f93665a67416e6354f7181dc1eac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/19c54783f664e6565036826ea30541b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/19c54783f664e6565036826ea30541b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbe32ecb90f90cd06867c20e4a5d2e2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/anil/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/fbe32ecb90f90cd06867c20e4a5d2e2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c7bf782ea7cc79e74467772454b7987f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c7bf782ea7cc79e74467772454b7987f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/17e84cce8abe66434577f3e01545336a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/17e84cce8abe66434577f3e01545336a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a3971c0abc93e42233e674eecbf768dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a3971c0abc93e42233e674eecbf768dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4c57c7ec2df7672cd0b27cdf94293b90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4c57c7ec2df7672cd0b27cdf94293b90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1dbdf0bf21bd253a2f8718d35d36aba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/1dbdf0bf21bd253a2f8718d35d36aba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b6d2ccafcba426704e09ed950270f297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b6d2ccafcba426704e09ed950270f297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71113f499e8a670d54ee78a2382cfc5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71113f499e8a670d54ee78a2382cfc5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/abb69ded00dbf48add3836661bf909c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/abb69ded00dbf48add3836661bf909c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7ae8698eb3008b58d04180e7ca621ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7ae8698eb3008b58d04180e7ca621ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/088df3c1767a6a43f6a8cf6c9b9355e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/anil/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/088df3c1767a6a43f6a8cf6c9b9355e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7bed67a5472ce7a2543248ad55838316/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7bed67a5472ce7a2543248ad55838316/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7e09fce5efe0d7610c3c65681a0deb0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7e09fce5efe0d7610c3c65681a0deb0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/88fd9051b0ade065656bd890e89fb25a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/88fd9051b0ade065656bd890e89fb25a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0b287f8ab7b27b14a5f74f35633df9f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/anil/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0b287f8ab7b27b14a5f74f35633df9f0/AndroidManifest.xml:20:5-44
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		ADDED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anil/AndroidStudioProjects/EXPENSETRACKER2/app/src/main/AndroidManifest.xml
